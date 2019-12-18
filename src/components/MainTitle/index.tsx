@@ -146,7 +146,9 @@ const MainTitle: React.FC<MainTitleProps> = ({ setShowContents }) => {
           <LoadingText className="loading-text">Loading...</LoadingText>
         )}
         {!hasClickedTitle && (
-          <TitleText className="title-text">hayayer&apos;s portfolio</TitleText>
+          <TitleText className="title-text">
+            hayate4th&apos;s portfolio
+          </TitleText>
         )}
       </SVGWrapper>
     </TitleWrapper>
