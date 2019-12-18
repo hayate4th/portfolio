@@ -7,8 +7,8 @@ const GitHubContributions: React.FC = () => {
     <>
       <h2>Recent Contributions</h2>
       <ContributionsGraph
-        src="https://grass-graph.moshimo.works/images/hayayer.png"
-        alt="Image of hayayer's Recent GitHub contributions"
+        src="https://grass-graph.moshimo.works/images/hayate4th.png"
+        alt="Image of hayate4th's Recent GitHub contributions"
       />
     </>
   );
