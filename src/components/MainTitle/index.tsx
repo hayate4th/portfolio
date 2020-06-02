@@ -178,7 +178,7 @@ const TransparentRect = styled.rect`
 `;
 
 const TitleText = styled.div`
-  font-size: 48px;
+  font-size: 40px;
   letter-spacing: 8px;
   line-height: 0;
   position: relative;
@@ -188,7 +188,7 @@ const TitleText = styled.div`
 
 const WelcomeText = styled.div`
   color: #fff;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: bold;
   letter-spacing: 8px;
   line-height: 0;
@@ -200,7 +200,7 @@ const WelcomeText = styled.div`
 const LoadingText = styled.div`
   color: #000;
   opacity: 0;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: bold;
   letter-spacing: 8px;
   line-height: 0;
@@ -211,7 +211,7 @@ const LoadingText = styled.div`
 
 const HelloText = styled.div`
   color: #fff;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: bold;
   letter-spacing: 8px;
   line-height: 0;
